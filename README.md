@@ -1,1 +1,1 @@
-# site-pessoal
+# Sou Murilo Capel estudante do Colégio Castelo branco. Estou construindo um site pessoal na disciplina de programação com o intuito de falar sobre stw(Star wars) tanto sobres seus filmes,series e jogos.

@@ -11,7 +11,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 100vh 0;
+  padding: 24px 0;
 }
 
 .cabecalho-imagem{

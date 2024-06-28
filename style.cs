@@ -4,8 +4,8 @@ body {
     background: #000;
 }
 
-/* Container da galáxia */
-.galaxy {
+/* Container do espaço */
+.space {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -14,7 +14,7 @@ body {
 }
 
 /* Estrelas */
-.galaxy::before, .galaxy::after {
+.space::before, .space::after {
     content: '';
     position: absolute;
     top: 0;
